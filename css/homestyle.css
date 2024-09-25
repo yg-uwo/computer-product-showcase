@@ -1,0 +1,36 @@
+/* Navbar styling */
+.navbar {
+  background-color: #4cc5ea;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  /* justify-content: space-between; */
+  /* align-items: center; */
+}
+
+.navbar h2 {
+  margin: 0;
+}
+
+.navbar ul {
+  list-style-type: none;
+  display: right;
+  gap: 15px;
+  /* margin-left: auto; Right-align the navbar items */
+}
+
+.navbar li {
+  display: inline;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 8px 15px;
+  background-color: #555;
+  border-radius: 5px;
+}
+
+.navbar a:hover {
+  background-color: #777;
+}
