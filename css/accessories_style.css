@@ -1,3 +1,30 @@
+.btn-outline-primary {
+    float: right;
+    border: 0px;
+}
+
+.btn-accs {
+    margin-left: 50%;
+    color: #ffffff;
+    background-color: #20c997;
+    border-color: #20c997;
+}
+
+.btn-accs-outline {
+    color: #20c997;
+    border-color: #20c997;
+}
+
+.btn-accs-outline:hover {
+    background-color: #20c997;
+    color: #fff;
+}
+
+h2 {
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(232, 39, 39);
+}
 
 h2 {
     font-weight: 900
@@ -7,14 +34,13 @@ h2 {
     max-width: 1200px
 }
 
-section{
+section {
     margin-bottom: 80px;
 }
 
 .card {
-    background: #fff;
-    box-shadow: 0 6px 10px rgba(0, 0, 0, .08), 0 0 6px rgba(0, 0, 0, .05);
-    transition: .3s transform cubic-bezier(.155, 1.105, .295, 1.12), .3s box-shadow, .3s -webkit-transform cubic-bezier(.155, 1.105, .295, 1.12);
+    background: #ffffff;
+    box-shadow: 0 6px 10px rgba(230, 184, 184, 0.08), 0 0 6px rgba(234, 179, 179, 0.05);
     border: 0;
     border-radius: 1rem;
 }
@@ -25,11 +51,26 @@ section{
     border-top-right-radius: calc(1rem - 1px)
 }
 
+#gotop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .card h5 {
+    white-space: nowrap;
     overflow: hidden;
+    text-overflow: ellipsis;
     height: 56px;
-    font-weight: 900;
-    font-size: 1rem
+    font-weight: 300;
+    font-size: 1rem;
+    color: rgb(59, 64, 66)
+}
+
+.card h5:hover {
+    overflow: visible;
+    white-space: normal;
+    height: auto;
 }
 
 .card-img-top {
@@ -43,24 +84,12 @@ section{
     font-size: 1rem
 }
 
-.card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06)
-}
-
 @media (max-width: 768px) {
     .card-img-top {
         max-height: 250px
     }
 }
 
-.over-bg {
-    background: rgba(53, 53, 53, 0.85);
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-    backdrop-filter: blur(0.0px);
-    -webkit-backdrop-filter: blur(0.0px);
-    border-radius: 10px
-}
 
 .btn {
     font-size: 1rem;
@@ -119,7 +148,7 @@ section{
     .box-img {
         max-width: 200px
     }
-    
+
 }
 
 
