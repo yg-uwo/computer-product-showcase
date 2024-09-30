@@ -3,6 +3,14 @@
     border: 0px;
 }
 
+h1{
+    color:burlywood;
+}
+
+h6{
+    color: #d21f7d;
+  }
+
 .btn-accs {
     margin-left: 50%;
     color: #ffffff;
@@ -135,7 +143,6 @@ section {
     border-radius: 1rem;
     background: #fff;
     box-shadow: 0 6px 10px rgb(0 0 0 / 8%), 0 0 6px rgb(0 0 0 / 5%);
-    transition: .3s transform cubic-bezier(.155, 1.105, .295, 1.12), .3s box-shadow, .3s -webkit-transform cubic-bezier(.155, 1.105, .295, 1.12)
 }
 
 .box-img {
@@ -159,6 +166,6 @@ section {
     }
 }
 
-.related h3 {
+/* .related h3 {
     font-weight: 900
-}
+} */
