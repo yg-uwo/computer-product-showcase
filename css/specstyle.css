@@ -32,11 +32,16 @@
     margin-left: 90px;
 }
 
+dt{
+  font-style: italic;
+    color: rgb(222, 35, 69);
+}
+
   .specs-table {
     
       margin-bottom: 20px;
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 0px solid #ddd;
     border-radius: 8px;
   }
 
@@ -44,10 +49,6 @@
     margin-bottom: 10px;
   }
 
-  .specs-table tr th {
-    font-style:italic ;
-    color: darkolivegreen;
-  }
 
   .carousel-control-prev-icon,
     .carousel-control-next-icon {
