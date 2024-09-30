@@ -1,0 +1,116 @@
+commit 04f83c34daafc0bd066d8dc2585ab204f8631faf
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Mon Sep 30 15:33:53 2024 -0400
+
+    resolved bugs identified by w3c
+
+commit 880e0354382868c6095883da910c3b8525f0aaa6
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Mon Sep 30 13:38:35 2024 -0400
+
+    modified readme file
+
+commit 2dfc99bf4cb7fc0a98e8873acd273b34804b2223
+Merge: 3f68838 74f3bbd
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Mon Sep 30 13:17:40 2024 -0400
+
+    Merge pull request #3 from yg-uwo/bugfixes
+    
+    Fixed Styling,Structure for all pages
+
+commit 74f3bbdda54bd0f1fbefd70449c5ab942fa9879b
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Mon Sep 30 13:15:06 2024 -0400
+
+    added colors,synced navbar for models pages
+
+commit 7b68521e819caa8c82ce9123b8871a7f9315a82d
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Mon Sep 30 12:45:12 2024 -0400
+
+    modified homepage styling
+
+commit 9c43b3f7be0094d9614b32cf9e3bd992c85153fe
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Mon Sep 30 12:03:21 2024 -0400
+
+    fixed title,navbar styling for accessories page
+
+commit 3f68838b7f324211ce3016f19527c08865cd69c9
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Sun Sep 29 17:26:55 2024 -0400
+
+    used dl list type for hp second model
+
+commit 1ed7b13045b632fcb7b75fa3f2fb93c90c25c5eb
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Sun Sep 29 17:18:03 2024 -0400
+
+    added second hp model
+
+commit 27e52039e56704dc679b708ca2da88f9719665fc
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Sun Sep 29 16:47:07 2024 -0400
+
+    added carousal images for acer2 model
+
+commit acea2d102a9a7b803f6bc89309ae4293085fe38a
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Sun Sep 29 16:29:08 2024 -0400
+
+    added second acer model specs
+
+commit 2c8d7aba2a944e63695c92027c79f722869d6a12
+Merge: 4231ced 559de8a
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Sun Sep 29 16:11:01 2024 -0400
+
+    Merge pull request #2 from yg-uwo/feature/productDetailing
+    
+    Feature/product detailing
+
+commit 4231cedee41edd0ee834b801e87cfaf768f17d04
+Merge: adc033c 25361dc
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Sun Sep 29 16:09:53 2024 -0400
+
+    Merge pull request #1 from yg-uwo/feature/homepage
+    
+    Feature/homepage
+
+commit 559de8ac8fd5521ceb1d41f59ad2748d570cab0f
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Sun Sep 29 16:03:11 2024 -0400
+
+    applied styling in accessories page
+
+commit 53512bb931e59af9cb40a1adfb2779f3321713e7
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Fri Sep 27 22:37:56 2024 -0400
+
+    added accessories page with styling
+
+commit b6e3e427f470c92828370abef1c0428178f1fabc
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Thu Sep 26 21:22:55 2024 -0400
+
+    worked on navbar styling and model pages
+
+commit 25361dceabce7a49b6b579b00f6459056d3c020c
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Wed Sep 25 23:05:34 2024 -0400
+
+    added styling for homepage
+
+commit 649363feb95acf8521a270137b613426c2dff2ba
+Author: Yash Gupta <yash.gupta@cloudesign.com>
+Date:   Tue Sep 24 22:13:09 2024 -0400
+
+    defined homepage structure
+
+commit adc033c84ba513cba70dd1721dc1b319983bc03f
+Author: Yash Gupta <ygupta26@uwo.ca>
+Date:   Mon Sep 23 18:45:24 2024 -0400
+
+    modified README.md
