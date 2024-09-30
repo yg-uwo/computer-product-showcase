@@ -4,6 +4,14 @@
     margin-top: 500px;
   }
 
+  .container-fluid {
+    max-width: 1200px
+  }
+
+ .navTitle{
+  color: #d21f7d;
+ }
+
 .circle {
     height: 25px;
     width: 25px;

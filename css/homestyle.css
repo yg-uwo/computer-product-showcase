@@ -2,6 +2,18 @@ body {
   background-color: #e0d4e9;
 }
 
+h3{
+  color: #d21f7d;
+}
+
+.container-fluid {
+  max-width: 1200px
+}
+
+.card-title{
+  color: rgb(111, 29, 244);
+}
+
 .card {
   display: flex;
   flex-direction: column;
@@ -32,7 +44,6 @@ body {
   width: auto !important;
 }
 
-/* Remove borders from the table */
 table {
   width: 100%;
   text-align: left;
@@ -66,7 +77,7 @@ td {
 }
 
 
-/* For small devices (mobile) */
+/*mobile*/
 @media (max-width: 576px) {
   .card {
     flex-direction: column;
